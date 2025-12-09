@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a02eb948-161c-40ed-8c7e-a19b0ecf605a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/EPM extraction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a02eb948-161c-40ed-8c7e-a19b0ecf605a" name="Changes" comment="Model with dummy data" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,10 +52,24 @@
       <updated>1764902743118</updated>
       <workItem from="1764902744767" duration="730000" />
       <workItem from="1765263813300" duration="3949000" />
+      <workItem from="1765321524998" duration="387000" />
     </task>
+    <task id="LOCAL-00001" summary="Model with dummy data">
+      <option name="closed" value="true" />
+      <created>1765321799696</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765321799696</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Model with dummy data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Model with dummy data" />
   </component>
 </project>

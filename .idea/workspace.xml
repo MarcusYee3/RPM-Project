@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a02eb948-161c-40ed-8c7e-a19b0ecf605a" name="Changes" comment="Model with dummy data">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QUICKSTART.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configs/default_config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/evaluate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evaluation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evaluation/metrics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/impact_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/player_embeddings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/temporal_layers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training/trainer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
-    </list>
+    <list default="true" id="a02eb948-161c-40ed-8c7e-a19b0ecf605a" name="Changes" comment="Model with dummy data" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +52,7 @@
       <updated>1764902743118</updated>
       <workItem from="1764902744767" duration="730000" />
       <workItem from="1765263813300" duration="3949000" />
-      <workItem from="1765321524998" duration="1058000" />
+      <workItem from="1765321524998" duration="1471000" />
     </task>
     <task id="LOCAL-00001" summary="Model with dummy data">
       <option name="closed" value="true" />
